@@ -1,0 +1,1 @@
+web: cd tubelitedoor && npm start
